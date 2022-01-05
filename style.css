@@ -14,6 +14,7 @@ body{
     font-size: 25px;
     margin-top: 150px;
     margin-left: 120px;
+    font-weight: 700;
 }
 .first_img img{
     width: 720px;
@@ -34,4 +35,20 @@ p{
     border-radius: 5px;
     font-size: medium;
     padding: 7px;
+}
+.dream{
+    display: flex;
+    margin-top: 10%;
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.dream_img img{
+    padding-left: 10%;
+
+}
+.dream_text{
+    font-size: 20px;
+    font-weight: 600;
+    padding-right:10% ;
 }
