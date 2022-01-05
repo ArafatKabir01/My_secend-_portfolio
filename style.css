@@ -42,6 +42,7 @@ p{
     background-image: url(image/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    margin-bottom: 50px;
 }
 .dream_img img{
     padding-left: 10%;
@@ -59,6 +60,7 @@ p{
     background-repeat: no-repeat;
     background-position:right;
     background-size: 19%;
+    
     
 }
 .developer_box{
